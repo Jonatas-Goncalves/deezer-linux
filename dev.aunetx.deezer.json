@@ -6,9 +6,11 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://e-cdn-content.dzcdn.net/builds/deezer-desktop/8cF2rAuKxLcU1oMDmCYm8Uiqe19Ql0HTySLssdzLkQ9ZWHuDTp2JBtQOvdrFzWPA/win32/x86/6.0.150/DeezerDesktopSetup_6.0.150.exe",
-          "sha256": "0ecf85dc7988bc1c26bf12f22b800eeb813b943b7453b8ac5fa9a103ccc075f5",
-          "only-arches": ["x86_64"],
+          "url": "https://cdn-content.dzcdn.net/builds/deezer-desktop/8cF2rAuKxLcU1oMDmCYm8Uiqe19Ql0HTySLssdzLkQ9ZWHuDTp2JBtQOvdrFzWPA/win32/x86/7.1.210/DeezerDesktopSetup_7.1.210.exe",
+          "sha256": "567fe009f67f5249fdef81d1f6555b9a45daf81c93863f1fcb12987c92a257d1",
+          "only-arches": [
+            "x86_64"
+          ],
           "dest": "archive",
           "x-checker-data": {
             "type": "rotating-url",
